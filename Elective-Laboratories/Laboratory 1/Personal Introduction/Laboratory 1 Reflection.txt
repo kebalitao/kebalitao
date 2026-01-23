@@ -1,2 +1,0 @@
-
-The design principle that was most useful to me was the concept of simplicity, as it enabled me to focus on form over content by avoiding too many design components. The easiest feature to implement was selecting the design template or modifying the colors and fonts, as they were highly intuitive. The most challenging was making the components look symmetrical and determining how much design to remove to prevent clutter in the image. From the activity, I learned that visual communication does not just have to look good; it also needs to convey a message.
